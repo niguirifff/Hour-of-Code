@@ -1,4 +1,4 @@
-#**Hour of Code**
+#Hour of Code
 
 **Objetivo:** Integrar efectos de sonido y música en el proyecto Hour of Code de Epic utilizando el middleware de audio Wwise. Este trabajo se enfoca exclusivamente en la implementación de audio y música. No es necesario crear ningún recurso (asset), ya que todos los sonidos serán proporcionados por el docente.
 

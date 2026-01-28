@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/niguirifff/Desktop/Hour-of-Code/Hour-of-Code/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/Hour_of_Code/Maps/Level_01_end.umap",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/Hour_of_Code/Maps/Level_02_end.umap",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/Hour_of_Code/Maps/Level_05_end.umap",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.umap",
+				"/Users/niguirifff/Desktop/Hour-of-Code/HourofCode 4.27/Content/TeachersMarketplace/BP/PlayerCharacterBP/EpicCharacter_LD.uasset"
+			]
+		}
+	]
+}

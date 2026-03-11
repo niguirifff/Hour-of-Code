@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Props/Powerups/Powerup_A/Material/NewMaterial.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Props/Powerups/Powerup_A/Material/NewMaterial1.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Architecture/Gate/Material/NewMaterial.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Maps/Level_03_end.umap",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Maps/Level_05_end.umap",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.umap",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/E.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/T-Posev2.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/T-Posev2_Anim.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/T-Posev2_PhysicsAsset.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/T-Posev2_Skeleton.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_AnimBP.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/openPBR_shader1.uasset",
+				"C:/Users/LaboratoriVR.AzureAD/Documents/Git/Hour-of-Code/Hour-of-Code/Content/Entio/openPBR_shader2.uasset"
+			]
+		}
+	]
+}

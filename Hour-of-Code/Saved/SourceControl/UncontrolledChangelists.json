@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/Banks/Master.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/Events/New_Event.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/Buses/Reverb.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_AnimBP.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/FMOD/Events/Footstep.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpRun_End.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpRun_Start.uasset",
+				"/Volumes/storage/Git/Hour-of-Code/Hour-of-Code/Content/TeachersMarketplace/Assets/_Shared/Materials/M_Grass_Master.uasset"
+			]
+		}
+	]
+}
